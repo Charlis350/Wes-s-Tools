@@ -1,0 +1,129 @@
+WES AI SETUP TUTORIAL
+for Wes's Tools
+
+WHAT WES AI IS
+Wes AI is the built-in chat tab inside Wes's Tools.
+It uses your OpenAI API key to talk to the AI.
+If no key is added, Wes AI will not work.
+
+WHAT YOU NEED
+1. A working internet connection
+2. An OpenAI account
+3. An OpenAI API key
+4. API billing or credits on your OpenAI account
+5. The latest build of Wes's Tools
+
+STEP 1: OPEN WES'S TOOLS
+1. Launch Wes's Tools
+2. Wait for the app to finish loading
+3. Open the Settings tab
+
+STEP 2: GET AN OPENAI API KEY
+1. Go to https://platform.openai.com/
+2. Sign in to your OpenAI account
+3. Open the API Keys page
+4. Create a new secret key
+5. Copy the key right away
+
+IMPORTANT:
+Your API key is private.
+Do not share it with anyone.
+Do not post it in screenshots, videos, Discord, or GitHub.
+
+STEP 3: MAKE SURE YOUR OPENAI ACCOUNT CAN USE THE API
+If Wes AI says things like:
+- "You exceeded your current quota"
+- "Billing required"
+- "Insufficient quota"
+then your key may be correct, but your API account does not have usable credits yet.
+
+To fix that:
+1. Go to the billing section of your OpenAI account
+2. Add a payment method if needed
+3. Add credits or enable API billing
+4. Try Wes AI again
+
+STEP 4: ADD YOUR KEY TO WES'S TOOLS
+1. In Wes's Tools, open Settings
+2. Find the Wes AI section
+3. Click the OpenAI API Key box
+4. Paste your API key
+5. Make sure the model box has a valid model name
+6. Leave Settings
+
+Your key is saved locally in Wes's Tools settings.
+
+STEP 5: OPEN WES AI
+1. Click the Wes AI tab
+2. Click the chat box
+3. Type a message
+4. Press Enter if send-on-enter is enabled
+5. If it is not enabled, use the send button
+
+EXAMPLE FIRST MESSAGE
+Hello Wes, are you working?
+
+IF WES AI IS WORKING
+You should get a reply in the chat.
+That means your key, internet, and API access are working.
+
+COMMON PROBLEMS AND FIXES
+
+1. Problem: Wes AI says add an OpenAI key
+Fix:
+- Go to Settings
+- Paste your API key into the OpenAI API Key field
+
+2. Problem: Wes AI says quota exceeded
+Fix:
+- Your key is probably valid
+- Your OpenAI account needs API credits or billing
+
+3. Problem: Wes AI says request failed
+Fix:
+- Check your internet
+- Make sure the API key is correct
+- Make sure billing is active
+- Try again in a few seconds
+
+4. Problem: Wes AI gives no response
+Fix:
+- Check that your key is saved
+- Make sure the model name is not blank
+- Restart Wes's Tools and try again
+
+5. Problem: Wes AI still does not work after everything is set up
+Fix:
+- Close Wes's Tools
+- Open it again
+- Re-enter the API key
+- Try a simple message like "test"
+
+USEFUL SETTINGS FOR WES AI
+Inside Settings, you may have options like:
+- Send AI messages when you press Enter
+- Let Wes AI remember this session while the app is open
+- Model selection
+
+RECOMMENDED SETUP
+- Keep send-on-enter enabled
+- Keep session memory enabled if you want more natural conversations
+- Use a valid OpenAI model in the model box
+
+IMPORTANT NOTES
+- Wes AI needs the OpenAI API, not just a normal ChatGPT login
+- A ChatGPT subscription does not always mean API billing is set up
+- Each user should use their own API key
+- Do not bundle your personal API key into public copies of the app
+
+QUICK CHECKLIST
+[ ] OpenAI account created
+[ ] API key created
+[ ] Billing or credits active
+[ ] API key pasted into Wes's Tools Settings
+[ ] Model entered
+[ ] Internet working
+[ ] Wes AI tab tested
+
+DONE
+If all steps are complete, Wes AI should now work inside Wes's Tools.
