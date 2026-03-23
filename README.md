@@ -2,12 +2,21 @@
 
 `Wes's Tools` is a Windows launcher and utility deck with app launching, running app views, services, startup apps, network tools, system monitor, capture tools, console access, repair tools, file tools, and Wes AI.
 
-## Run The App
+## Version 0.0.2
 
-If you downloaded this repository from GitHub, open:
+The `0.0.2` build includes a self-contained Windows package so the downloaded app can run without requiring a separate .NET Desktop Runtime install.
 
-`Release/WessTools-portable/WessTools.exe`
+## Download And Run
 
-## Important
+If you downloaded this repository from GitHub, use:
 
-This portable build is framework-dependent. If `WessTools.exe` does not open on your PC, install the Microsoft .NET Desktop Runtime for the target version used by the project, then run the exe again.
+`Release/WessTools-0.0.2-win-x64.zip`
+
+Extract it, then run:
+
+`WessTools.exe`
+
+## Notes
+
+- `Release/WessTools-portable` is the smaller framework-dependent build.
+- `Release/WessTools-0.0.2-win-x64.zip` is the recommended build for normal downloads.
