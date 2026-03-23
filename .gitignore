@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.nuget/
+.localappdata/
+.userprofile/
+
+*.user
+*.suo
+*.cache
+*.log
+
+appsettings.Local.json
+secrets.json
