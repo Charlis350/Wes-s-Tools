@@ -8,15 +8,12 @@ The `0.0.2` build includes a self-contained Windows package so the downloaded ap
 
 ## Download And Run
 
-If you downloaded this repository from GitHub, use:
-
-`Release/WessTools-0.0.2-win-x64.zip`
-
-Extract it, then run:
+Download the `0.0.2` release zip from the GitHub Releases page, extract it, then run:
 
 `WessTools.exe`
 
 ## Notes
 
 - `Release/WessTools-portable` is the smaller framework-dependent build.
-- `Release/WessTools-0.0.2-win-x64.zip` is the recommended build for normal downloads.
+- Self-contained release zips should be uploaded as GitHub Release assets instead of being committed into the repo.
+- `Create-ReleasePackage.ps1` builds the self-contained Windows release zip for upload.

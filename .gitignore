@@ -12,3 +12,6 @@ obj/
 
 appsettings.Local.json
 secrets.json
+
+Release/
+*.zip
